@@ -5,4 +5,5 @@ Clang
 Create a new branch is quick
 世界你好
 去你妹的
-master commit is easy
+
+create a new branch is essay
