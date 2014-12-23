@@ -9,3 +9,6 @@ Create a new branch is quick
 create a new branch is essayNice to meet you
 分支测理策略
 hello word2
+hello
+hello word
+hello word1
